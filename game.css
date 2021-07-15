@@ -1,0 +1,32 @@
+.container{
+    margin-left:300px;
+    margin-top:50px;
+    width:900px;
+    height:500px;
+    border-style:solid;
+    border-width:10px;
+}
+.ball{
+    margin:0px;
+    width:18px;
+    height:18px;
+    background-color:red;
+    border-radius:12px;
+    position:relative;
+    top:25px;
+}
+.piece{
+    width:45px;
+    height:4px;
+    background-color:green;
+    position:relative;
+    top:479px;
+}
+.LEFT{
+    position:relative;
+    left:650px;
+}
+.RIGHT{
+    position:relative;
+    left:750px;
+}
